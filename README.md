@@ -21,11 +21,14 @@ AI Mock Interviewer is a cutting-edge application built with Next.js, designed t
 ## Getting started with Interview
 ![Screenshot 2024-07-21 153306](https://github.com/user-attachments/assets/70b671a8-d1a6-4e17-b86e-efd227a5d643)
 
+<!-- This is a comment in a README.md file. It will not be displayed in Markdown preview. 
 ## After enabling camera (optional)
 ![Screenshot 2024-07-21 153732](https://github.com/user-attachments/assets/90ba9cbf-50df-479f-a187-418759d2255a)
 
 ## Interview Started
 ![Screenshot 2024-07-21 154006](https://github.com/user-attachments/assets/4d64c7bd-a29d-4adc-a8a3-cdb3b73a9eb5)
+-->
+
 
 ## Feedback
 ![Screenshot 2024-07-21 154922](https://github.com/user-attachments/assets/d5434aac-0c6c-44f6-a570-f74044e2df4c)
